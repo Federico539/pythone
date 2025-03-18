@@ -1,1 +1,3 @@
-print("mi chiamo Federico")
+nome = "Federico"
+
+print("mi chiamo", nome)
